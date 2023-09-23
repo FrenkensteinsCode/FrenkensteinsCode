@@ -11,7 +11,7 @@
 
 ## Creating code with a relation to cybersecurity
 * Windows and Linux
-* Python, Powershell, Java and more
+* Python, Java, Powershell, Bash and more
 
 
 <!---
