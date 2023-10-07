@@ -9,7 +9,7 @@
 
 # Welcome to my profile!
 
-## Creating code with a relation to cybersecurity
+## Creating code (mostly) related to cybersecurity
 * Windows and Linux
 * Python, Java, Powershell, Bash and more
 
